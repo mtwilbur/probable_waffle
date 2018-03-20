@@ -1,2 +1,2 @@
 # probable_waffle
-practice for git
+This is my practice README file. 
